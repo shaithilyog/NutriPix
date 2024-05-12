@@ -1,4 +1,4 @@
-## Contributing to Nutripix
+# Contributing to Nutripix
 
 We welcome contributions from the community! This guide will help you get started with setting up your development environment and contributing code to the Nutripix project.
 

@@ -1,3 +1,5 @@
+# code of conduct
+
 **A. Preamble**
 
 This Code of Conduct outlines the expected behavior for all participants in the Nutripix project. We are committed to creating a welcoming and inclusive environment for everyone, regardless of background, experience level, or opinion.
