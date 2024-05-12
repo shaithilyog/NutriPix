@@ -1,1 +1,36 @@
 desktop.ini
+# Platform-specific folders
+android/
+ios/
+linux/  
+macos/ 
+windows/ 
+
+# Development tools and caches
+.idea/
+.dart_tool
+.metadata
+analysis_options.yaml
+nutripix.iml
+pubspec.lock
+test/
+web/ 
+
+# Generated files
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+linked_*.ds
+unlinked_*.ds
+unlinked_spec.ds
+
+# Keep essential files
+!pubspec.yaml
+!lib/
+!assets/*
+
+# Optional (consider based on needs)
+!android/app/src/main/AndroidManifest.xml  
+!ios/Runner.swift 
+!lib/config.dart 
+!lib/models/*.dart  
